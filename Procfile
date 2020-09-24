@@ -1,1 +1,2 @@
-web: node_modules/gulp/bin/gulp server
+web: pwd ; ls
+
